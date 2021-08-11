@@ -8,5 +8,5 @@ console.log(res)
 while(1){
 
 
-    console.log("allah")
+    console.log("allah Akbor")
 }
