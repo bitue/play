@@ -1,5 +1,5 @@
 function git( i){
     return i 
 }
-
-console.log(git(0))
+let res = git (0)
+console.log(res)
