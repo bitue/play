@@ -1,4 +1,4 @@
-function git( i){
+function git( ture){
     return i 
 }
 let res = git (0)
